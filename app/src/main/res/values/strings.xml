@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AllDemo1.0</string>
+    <string name="date">20:59:00</string>
+    <string name="riqi">2017-3-12</string>
+    <string name="biaoti3">推荐</string>
+    <string name="backshow"><![CDATA[<返回]]></string>
+    <string name="biaoti2">联系人</string>
+    <string name="testview">亲爱的爷爷/奶奶，我是小西，需要帮助的话请长按下边按钮</string>
+    <string name="bangzhuanniu">查看我的任务</string>
+    <string name="show_1">附近的活动中心</string>
+    <string name="show_2">音乐播放器</string>
+    <string name="show_3">中老年购物秀</string>
+    <string name="show_4">帮你挑月嫂</string>
+</resources>
